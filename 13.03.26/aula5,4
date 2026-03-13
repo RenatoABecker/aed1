@@ -1,0 +1,8 @@
+#SET 
+
+#2 , 4 , 6
+
+#verifique SE n esta no conjunto SENAO adicione-o ao mesmo
+
+#n -> entrada do teclado
+#use: set, int, if e add() 
